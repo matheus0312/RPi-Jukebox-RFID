@@ -110,7 +110,10 @@
       "no-card-id": "Keine Karten-ID vorhanden"
     },
     "list": {
-      "no-cards-registered": "Es wurden noch keine Karten registriert!"
+      "no-cards-registered": "Es wurden noch keine Karten registriert!",
+      "sort-by": "Sortieren nach",
+      "sort-card-id": "Karten-ID",
+      "sort-command": "Befehl"
     },
     "overview": {
       "cards": "Karten",

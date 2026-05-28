@@ -110,7 +110,10 @@
       "no-card-id": "No card ID"
     },
     "list": {
-      "no-cards-registered": "No cards registered!"
+      "no-cards-registered": "No cards registered!",
+      "sort-by": "Sort by",
+      "sort-card-id": "Card ID",
+      "sort-command": "Command"
     },
     "overview": {
       "cards": "Cards",
